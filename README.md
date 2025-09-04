@@ -1,6 +1,10 @@
 # Live Collaborative Editor
 
-A powerful React.js-based collaborative editor with AI integration, featuring real-time text editing, AI-powered suggestions, and web search capabilities.
+A modern, AI-powered collaborative text editor built with React.js and TipTap. Features real-time AI assistance, intelligent text editing, and web search capabilities.
+
+## 🚀 Live Demo
+
+**[Try it live: live-collaborative-editor-tan.vercel.app](https://live-collaborative-editor-tan.vercel.app)**
 
 ## 🚀 Features
 
