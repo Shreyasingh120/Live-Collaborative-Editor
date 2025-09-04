@@ -36,5 +36,8 @@
   ],
   "author": "",
   "license": "MIT",
-  "description": "A live collaborative editor with AI integration"
-}
+  "description": "A live collaborative editor with AI integration",
+  "engines": {
+    "node": ">=18.0.0"
+    }
+  }
